@@ -1,0 +1,19 @@
+.wrapper {
+    padding: 10px 25px;
+    text-transform: capitalize;
+}
+label {
+    font-size: 20px;
+    margin-right: 10px;
+}
+input {
+    padding: 5px 10px;
+    font-size: 16px;
+}
+button {
+    font-size: 16px;
+    padding: 5px 10px;
+}
+p {
+    font-size: 20px;
+}
